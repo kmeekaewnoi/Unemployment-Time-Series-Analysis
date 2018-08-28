@@ -1,5 +1,5 @@
 # Read in the dataset
-unemploy<-read.csv("./data/monthly-us-female-20-years.csv")
+unemploy<-read.csv("./Dataset/monthly-us-female-20-years.csv")
 
 # Change column name (only column 2)
 names(unemploy)[2]<-"count"
