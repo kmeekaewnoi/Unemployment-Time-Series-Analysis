@@ -49,7 +49,7 @@ We can see from figure 1 that the long-term trend of an unemployment in women te
 
 Figure 4 shows the 12-month forecast that the unemployment in women will continue to go up in 1982. The forecast also shows that the unemployment will goes down in April and reach its peak in August. The actual forecasting is representing below.
 
-![](https://github.com/kmeekaewnoi/Unemployment-Time-Series-Analysis/blob/master/images/figure5.jpg)
+![](https://github.com/kmeekaewnoi/Unemployment-Time-Series-Analysis/blob/master/images/figure5.PNG)
 
 ## Conclusion
 It is not surprise that an SARIMA model would be a good fit for this unemployment data set because unemployment always involves in trend and seasonal. However, there were many factors that could be a reason of the unemployment in women in each century. As mentioned that recession, culture, and economics might have many effect on women workforce in the history.
